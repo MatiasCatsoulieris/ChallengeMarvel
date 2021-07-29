@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1848909783",
+    "project_id": "challengemarvel-bbc77",
+    "storage_bucket": "challengemarvel-bbc77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1848909783:android:10c9ef3c365b54a72bf592",
+        "android_client_info": {
+          "package_name": "android.example.com.challengemarvel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1848909783-4hmluocvj802kjh79p52lcv5dtus85o3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.com.challengemarvel",
+            "certificate_hash": "37c4b3635e58a07c4cc43ecb36bceca476284537"
+          }
+        },
+        {
+          "client_id": "1848909783-pm0vsffehlvvg4ibhpthh97204hgg7f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV6cqSHlt43ZmefbhNsyt0GEpFxf0cUG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1848909783-pm0vsffehlvvg4ibhpthh97204hgg7f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

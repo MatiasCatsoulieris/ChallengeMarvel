@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/homeFragment"
+        android:title="Characters"
+        android:icon="@drawable/icon_iron_man"
+        />
+    <item android:id="@+id/eventsFragment"
+        android:title="Events"
+        android:icon="@drawable/ic_baseline_calendar_today_24"
+        />
+</menu>
