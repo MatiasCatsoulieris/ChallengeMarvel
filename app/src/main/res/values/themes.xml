@@ -2,13 +2,9 @@
     <!-- Base application theme. -->
     <style name="Theme.ChallengeMarvel" parent="Theme.MaterialComponents.NoActionBar.Bridge">
         <!-- Primary brand color. -->
-        <item name="android:background">@color/white</item>
         <item name="colorPrimary">@color/black</item>
         <item name="colorPrimaryDark">@color/material_on_primary_disabled</item>
         <item name="colorAccent">@color/design_default_color_primary</item>
-        <item name="colorControlNormal">@color/black</item>
-        <item name="colorControlActivated">@color/black</item>
-        <item name="colorControlHighlight">@color/design_default_color_primary</item>
 
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
@@ -21,13 +17,31 @@
 
         <!-- Customize your theme here. -->
     </style>
+    <style name="BottomNavigationTheme" parent="Theme.AppCompat.Light">
+        <item name="android:background">@color/white</item>
+        <item name="colorPrimary">@color/black</item>
+        <item name="android:colorForeground">#A85F5F</item>
+    </style>
     <style name="AppTheme.ActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
         ...
-        <item name="actionMenuTextColor">@color/white</item>
+        <item name="android:textColorPrimary">@color/white</item>
         ...
+    </style>
+    <style name="myEditLayoutStyle" parent="Theme.ChallengeMarvel">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="placeholderTextColor">@color/black</item>
+        <item name="android:textColorHint">@color/black</item>
+        <item name="colorControlActivated">@color/black</item>
+        <item name="colorControlNormal">@color/black</item>
+
+
     </style>
 
 
 
-
 </resources>
+
+
+
+

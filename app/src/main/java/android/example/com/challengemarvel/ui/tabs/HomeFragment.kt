@@ -8,6 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.example.com.challengemarvel.databinding.FragmentHomeBinding
 import android.example.com.challengemarvel.presentation.MainViewModel
+import android.example.com.challengemarvel.utils.AnimUtils
 import androidx.activity.addCallback
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.lifecycleScope
